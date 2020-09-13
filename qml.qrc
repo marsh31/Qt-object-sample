@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>airplane.obj</file>
+        <file>Airplane.qml</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_01.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_02.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_03.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_031.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_032.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_033.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_034.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_035.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_036.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_037.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_039.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_04.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_06.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_08.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_09.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_10.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_11.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_12.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_13.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_14.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_17.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_19.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_21.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_26.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_27.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_28.mesh</file>
+        <file>meshes/node14082_WWII_Plane_Japan_Kawasaki_Ki_61_29.mesh</file>
+    </qresource>
+</RCC>

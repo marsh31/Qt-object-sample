@@ -5,7 +5,7 @@ import QtQuick.Window 2.12
 import QtQuick.Scene3D 2.0
 import QtQuick.Controls 2.13
 import QtQuick3D 1.15
-
+import QtQuick3D.Helpers 1.15
 
 Window {
     id: window
@@ -30,6 +30,10 @@ Window {
             Airplane {
 
             }
+        }
+
+        AxisHelper {
+            id: axisHelper
         }
 
 
